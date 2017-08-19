@@ -6,6 +6,8 @@
 - Twitter: [@kohei_kimura](https://twitter.com/kohei_kimura)
 - GitHub: [kohei-kimura](https://github.com/kohei-kimura)
 - Qiita: [kohei_kimura](https://qiita.com/kohei_kimura)
+- Medium: [@kohei_kimura](https://medium.com/@kohei_kimura)
+- Blog: [koheikimura.hatenablog.com](http://koheikimura.hatenablog.com/archive)
 
 ## Contents
 
