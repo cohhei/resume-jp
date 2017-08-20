@@ -104,6 +104,13 @@
 情報工学系の学科・専攻を卒業しており、2013年に東京工業大学大学院にて修士号を取得した。
 
 # パーソナルプロジェクト
+## pdtable
+`Pandas.DataFrame` 風のクラスを rubygem として作成。 `CSV::Table` 拡張して定義した。
+
+- [GitHub](https://github.com/kohei-kimura/pdtable)
+- [rubygems.org](https://rubygems.org/gems/pdtable)
+- [Blog Post](http://koheikimura.hatenablog.com/entry/2017/08/20/182046)
+
 ## Dummily
 Maru （ Elixir のマイクロフレームワーク）のサンプルコード。ダミーのユーザーデータを JSON で返す。 ID
  指定、パラメータ、ソートに対応。  [fukuoka.ex#1](https://techjin.connpass.com/event/56497/) で紹介。
